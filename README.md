@@ -257,13 +257,18 @@ Publish the website in the LocalHost.
 </body>
 </html>
 ```
-# OUTPUT:
-![alt text](<opp/Screenshot 2025-12-23 234833.png>)
-![alt text](<opp/Screenshot 2025-12-23 234841.png>)
-![alt text](<opp/Screenshot 2025-12-23 234849.png>)
-![alt text](<opp/Screenshot 2025-12-23 234857.png>)
-![alt text](<opp/Screenshot 2025-12-23 234917.png>)
 
+# OUTPUT:
+
+![alt text](<opp/Screenshot 2025-12-23 234833.png>)
+
+![alt text](<opp/Screenshot 2025-12-23 234841.png>)
+
+![alt text](<opp/Screenshot 2025-12-23 234849.png>)
+
+![alt text](<opp/Screenshot 2025-12-23 234857.png>)
+
+![alt text](<opp/Screenshot 2025-12-23 234917.png>)
 
 # RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
